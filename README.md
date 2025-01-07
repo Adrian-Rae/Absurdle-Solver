@@ -1,4 +1,4 @@
-Absurdle Solver
+Absurdle Solver [In Development]
 ---
 
 [Absurdle](https://absurdle.online/) is an online word puzzle game that closely resembles the massively popular [Wordle](https://www.nytimes.com/games/wordle/index.html), implementing several of its core mechanics in the pursuit of a user correctly determining an unseen 5-letter word pattern through the repeated testing of several test patterns (guesses) to determine common letters and letter placements. The objective of a puzzle is to determine the unseen word with as few test patterns as possible.
